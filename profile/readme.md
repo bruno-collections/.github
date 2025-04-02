@@ -1,6 +1,6 @@
 # 🐾 Bruno Collections
 
-Welcome to the **Bruno Collections** GitHub organization — curated workflows and service demos powered by [Bruno](https://www.usebruno.com), the modern, open-source API client built for developers.
+Welcome to the **Bruno Collections** GitHub organization — workflows and service demos powered by [Bruno](https://www.usebruno.com), the modern, open-source API client built for developers.
 
 > 🧠 Think of this repo as a library of plug-and-play Bruno collections — whether you're exploring a new API, building out a dev workflow, or sharing how your service works, we want to have a collection for that.
 
