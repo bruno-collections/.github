@@ -25,7 +25,7 @@ Each collection lives in its own repo and includes:
 
 ## 🚀 Getting Started
 
-1. Clone a repo or download a `.bruno` collection.
+1. Clone a repo or click the `Fetch in Bruno` button.
 2. Open it in the [Bruno app](https://www.usebruno.com).
 3. Start exploring, modifying requests, and sharing with your team.
 
